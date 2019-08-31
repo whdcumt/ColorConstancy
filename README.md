@@ -31,18 +31,18 @@ We hope you can cite the article if the software has been helpful for your work.
 
 ## FeedBack 
 
-Any suggestion and problem, please feel free to let us know via Email: liangzou@ece.ubc.ca.Thanks a lot.
+Any suggestion and problem, please feel free to let us know via Email: liangzou@ece.ubc.ca. Thanks a lot.
 
 ## License 
 
 Released under MIT license
 
-## Reference
+## Reference 
 
- 1. Chen, Y.; Qin, Y.; Li, Z.; Shi, Q.; Wei, C.; Wu, C.; Cao, C.; Qu, Z. Differences in desorption rate and composition of desorbed gases between undeformed and mylonitic coals in the Zhina Coalfield, Southwest China. FUEL 2019, 239, 905-916.      
- 2. Mählmann, R.F.; Le Bayon, R. Vitrinite and vitrinite like solid bitumen reflectance in thermal maturity studies: Correlations from diagenesis to incipient metamorphism in different geodynamic settings. INT J COAL GEOL 2016, 157, 52-73.     
- 3. Unsworth, J.F.; Gough, H. Characterization of coals by automated optical image analysis 2. Inertinite reflectance. J MICROSC-OXFORD 2011, 156, 327-342.       
- 4. Dembicki, J.H. Chapter 3 - Source Rock Evaluation. In Practical Petroleum Geochemistry for Exploration and Production; Dembicki, J. H., Ed Elsevier: 2017; pp. 61-133.      
- 5. Flores, R.M. Chapter 4 - Coalification, Gasification, and Gas Storage. In Coal and Coalbed Gas; Flores, R. M., Ed Elsevier: Boston, 2014; pp. 167-233.    
+ 1. Chen, Y.; Qin, Y.; Li, Z.; Shi, Q.; Wei, C.; Wu, C.; Cao, C.; Qu, Z. Differences in desorption rate and composition of desorbed gases between undeformed and mylonitic coals in the Zhina Coalfield, Southwest China. FUEL 2019, 239, 905-916.    
+ 2. Mählmann, R.F.; Le Bayon, R. Vitrinite and vitrinite like solid bitumen reflectance in thermal maturity studies: Correlations from diagenesis to incipient metamorphism in different geodynamic settings. INT J COAL GEOL 2016, 157, 52-73.   
+ 3. Unsworth, J.F.; Gough, H. Characterization of coals by automated optical image analysis 2. Inertinite reflectance. J MICROSC-OXFORD 2011, 156, 327-342.   
+ 4. Dembicki, J.H. Chapter 3 - Source Rock Evaluation. In Practical Petroleum Geochemistry for Exploration and Production; Dembicki, J. H., Ed Elsevier: 2017; pp. 61-133.   
+ 5. Flores, R.M. Chapter 4 - Coalification, Gasification, and Gas Storage. In Coal and Coalbed Gas; Flores, R. M., Ed Elsevier: Boston, 2014; pp. 167-233.   
 
 
